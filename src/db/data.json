@@ -1,0 +1,33 @@
+{
+    "name": "Produtos",
+    "items": [
+        {
+            "id": 1,
+            "name": "Produto 1",
+            "value": 10.99,
+            "sold": 10,
+            "stock": 20
+        },
+        {
+            "id": 2,
+            "name": "Produto 2",
+            "value": 10.99,
+            "sold": 10,
+            "stock": 20
+        },
+        {
+            "id": 3,
+            "name": "Produto 3",
+            "value": 10.99,
+            "sold": 10,
+            "stock": 20
+        },
+        {
+            "id": 4,
+            "name": "Produto 4",
+            "value": 10.99,
+            "sold": 10,
+            "stock": 20
+        }
+    ]
+}
