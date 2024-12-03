@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@designbycode/tailwindcss-text-shadow": "^2.2.1",
+    "@radix-ui/react-dialog": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.0",
+    "@tanstack/react-table": "^8.20.5",
     "biome": "^0.3.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
